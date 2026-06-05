@@ -14,8 +14,7 @@ Saya selama lebih dari setengah dekade di garda terdepan perawatan kritis, saya 
 * 🩺 **Clinical Expertise:** Mahir dalam pemantauan hemodinamik invasif dan non-invasif, manajemen ventilator, serta titrasi obat-obatan darurat (high-alert medications).
 * 🧠 **Crisis Management & Decision Making:** Teruji dalam mengambil keputusan klinis yang cepat dan tepat di bawah tekanan tinggi (situasi Code Blue).
 * 🤝 **Family Advocacy & Care:** Menjadi jembatan komunikasi yang empati antara tim medis dan keluarga pasien di masa-masa kritis.
-* 📝 **Admin Stok Gudang:** Berpengalaman dalam menjaga akurasi data sistem (SIT) vs fisik (SAP/WMS), stock opname, dan manajemen penataan barang.
-<img width="1535" height="1024" alt="ChatGPT Image 2 Jun 2026, 15 09 12" src="https://github.com/user-attachments/assets/35cea315-ae84-4ace-b87a-629bc8d71a88" />
+
 
 ---
 
