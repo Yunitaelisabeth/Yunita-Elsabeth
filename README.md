@@ -38,7 +38,7 @@ Berikut adalah beberapa area kontribusi utama dan pencapaian yang saya kelola se
 
 **1. Optimalisasi Manajemen Ventilator & Weaning Protocol:**
 
-Deskripsi: Berkolaborasi dengan Dokter Spesialis Anestesi/Kardiologi dalam menerapkan protokol penyapihan (weaning) ventilator yang efektif pada pasien gagal napas akut.
+**Deskripsi:** Berkolaborasi dengan Dokter Spesialis Anestesi/Kardiologi dalam menerapkan protokol penyapihan (weaning) ventilator yang efektif pada pasien gagal napas akut.
 
 Hasil/Dampak: Membantu menurunkan rata-rata hari penggunaan ventilator pada pasien ICU sebesar 15% di unit kerja, sekaligus meminimalkan risiko VAP (Ventilator-Associated Pneumonia).
 
