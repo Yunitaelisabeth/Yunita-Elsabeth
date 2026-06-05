@@ -2,10 +2,8 @@
 Saya adalah seorang Perawat Registered (RN) berpengalaman selama 6 tahun di Unit Perawatan Intensif (ICU) Rumah Sakit. Memiliki rekam jejak yang kuat dalam menangani pasien kritis (critical care), manajemen alat penopang hidup (life-support systems), serta kolaborasi multidisiplin dalam situasi darurat medis. Fokus saya adalah memberikan asuhan keperawatan berbasis bukti (evidence-based care) yang mengutamakan keselamatan pasien, akurasi tinggi, dan empati mendalam.
 
 Kumpulan proyek dan dokumen portofolio Rafles yang mengintegrasikan keahlian sebagai Data Analyst, Staf Gudang, dan Admin Stok Gudang untuk optimalisasi manajemen inventaris berbasis data.
-<img width="1086" height="1448" alt="IMG_9250" src="https://github.com/user-attachments/assets/419fed84-5871-4edc-a839-b592f890a33f" />
 <img <img width="1615" height="2440" alt="1 Sep 10 25_page-0001" src="https://github.com/user-attachments/assets/639d64d3-b335-40db-9a67-672396a9dcb2" />
 />
-![Uploading 1 Sep 10.25_page-0001.jpg…]()
 
 # Portofolio Rafles 📊📦
 
