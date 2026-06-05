@@ -11,7 +11,7 @@ Selamat datang di repositori portofolio saya! Di sini Anda akan menemukan berbag
 
 ## 👤 Tentang Saya
 Saya selama lebih dari setengah dekade di garda terdepan perawatan kritis, saya telah mendedikasikan diri untuk mengelola pasien dengan kondisi medis kompleks yang mengancam jiwa. Peran saya mencakup tiga pilar utama:
-* 🩺 **Clinical Expertise:** Mahir dalam pemantauan hemodinamik invasif dan non-invasif, manajemen ventilator, serta titrasi        obat-obatan darurat (high-alert medications).
+* 🩺 **Clinical Expertise:** Mahir dalam pemantauan hemodinamik invasif dan non-invasif, manajemen ventilator, serta titrasi obat-obatan darurat (high-alert medications).
 * 🧠 **Crisis Management & Decision Making:** Teruji dalam mengambil keputusan klinis yang cepat dan tepat di bawah tekanan tinggi (situasi Code Blue).
 * 🤝 **Family Advocacy & Care:** Menjadi jembatan komunikasi yang empati antara tim medis dan keluarga pasien di masa-masa kritis.
 * 📝 **Admin Stok Gudang:** Berpengalaman dalam menjaga akurasi data sistem (SIT) vs fisik (SAP/WMS), stock opname, dan manajemen penataan barang.
