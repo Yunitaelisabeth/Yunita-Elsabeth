@@ -51,6 +51,7 @@ Berikut adalah beberapa area kontribusi utama dan pencapaian yang saya kelola se
 **2. Ketua Tim Shift / Charge Nurse (Kepemimpinan Klinik)**
 
 * **Deskripsi:** Dipercaya memimpin tim perawat dalam shift, mengatur alokasi pasien berdasarkan tingkat keparahan (acuity level), dan memastikan kelancaran operasional ICU.
+<img width="661" height="319" alt="Screenshot 2026-06-05 124400" src="https://github.com/user-attachments/assets/61bc8234-19d0-45e5-bec4-df9e82f9d35b" />
 
 * **Hasil/Dampak:** Sukses mengoordinasikan lebih dari 50+ situasi darurat Code Blue dengan respons tim yang cepat, terstruktur, dan sesuai SOP rumah sakit.
 
