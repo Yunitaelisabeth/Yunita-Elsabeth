@@ -19,7 +19,7 @@ Saya selama lebih dari setengah dekade di garda terdepan perawatan kritis, saya 
 
 ---
 
-## 🛠️ Tech Stack & Alat Kerja
+## 🛠️ Keahlian Klinis & Kompetensi (Core Competencies)
 **Manajemen Alat Medis Kritis:** Ventilator Mekanik, Syringe Pump/Infusion Pump Titrasi, Mesin CRRT (Continuous Renal Replacement Therapy), Defibrilator, dan Monitor Hemodinamik EKG.
 
 **Prosedur Klinis Khusus:** Resusitasi Jantung Paru (RJP/CPR) Advanced, Perawatan Jalur Invasif (CVC, Arterial Line, PICC), Manajemen Jalan Napas (Airway Management).
