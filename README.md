@@ -40,21 +40,21 @@ Berikut adalah beberapa area kontribusi utama dan pencapaian yang saya kelola se
 
 **1. Optimalisasi Manajemen Ventilator & Weaning Protocol:**
 
-**Deskripsi:** Berkolaborasi dengan Dokter Spesialis Anestesi/Kardiologi dalam menerapkan protokol penyapihan (weaning) ventilator yang efektif pada pasien gagal napas akut.
+* **Deskripsi:** Berkolaborasi dengan Dokter Spesialis Anestesi/Kardiologi dalam menerapkan protokol penyapihan (weaning) ventilator yang efektif pada pasien gagal napas akut.
 
-**Hasil/Dampak:** Membantu menurunkan rata-rata hari penggunaan ventilator pada pasien ICU sebesar 15% di unit kerja, sekaligus meminimalkan risiko VAP (Ventilator-Associated Pneumonia).
+* **Hasil/Dampak:** Membantu menurunkan rata-rata hari penggunaan ventilator pada pasien ICU sebesar 15% di unit kerja, sekaligus meminimalkan risiko VAP (Ventilator-Associated Pneumonia).
 
 **2. Ketua Tim Shift / Charge Nurse (Kepemimpinan Klinik)**
 
-**Deskripsi:** Dipercaya memimpin tim perawat dalam shift, mengatur alokasi pasien berdasarkan tingkat keparahan (acuity level), dan memastikan kelancaran operasional ICU.
+* **Deskripsi:** Dipercaya memimpin tim perawat dalam shift, mengatur alokasi pasien berdasarkan tingkat keparahan (acuity level), dan memastikan kelancaran operasional ICU.
 
-**Hasil/Dampak:** Sukses mengoordinasikan lebih dari 50+ situasi darurat Code Blue dengan respons tim yang cepat, terstruktur, dan sesuai SOP rumah sakit.
+* **Hasil/Dampak:** Sukses mengoordinasikan lebih dari 50+ situasi darurat Code Blue dengan respons tim yang cepat, terstruktur, dan sesuai SOP rumah sakit.
 
 **3. Edukasi Keselamatan Pasien & Digitalisasi Dokumen ICU**
 
-**Deskripsi:** Menjadi mentor bagi perawat junior/magang di ICU serta aktif dalam proyek audit internal untuk akreditasi rumah sakit (KARS/JCI) terkait akurasi pendokumentasian asuhan keperawatan kritis.
+* **Deskripsi:** Menjadi mentor bagi perawat junior/magang di ICU serta aktif dalam proyek audit internal untuk akreditasi rumah sakit (KARS/JCI) terkait akurasi pendokumentasian asuhan keperawatan kritis.
 
-**Hasil/Dampak:** Meningkatkan skor kepatuhan dokumentasi checklist keselamatan pasien ICU hingga mencapai 98%
+* **Hasil/Dampak:** Meningkatkan skor kepatuhan dokumentasi checklist keselamatan pasien ICU hingga mencapai 98%
 
 ## 📁 Daftar Proyek (Portfolio Highlights)
 <img width="978" height="550" alt="image(608)" src="https://github.com/user-attachments/assets/d108a153-a731-4b4a-b0b0-848060be95fe" />
