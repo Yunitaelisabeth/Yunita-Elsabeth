@@ -33,7 +33,6 @@ Saya selama lebih dari setengah dekade di garda terdepan perawatan kritis, saya 
 * **
 
 
----
 ## 📁 Rekam Jejak & Pencapaian Proyek (Portfolio Highlights)
 Berikut adalah beberapa area kontribusi utama dan pencapaian yang saya kelola selama 6 tahun terakhir:
 
