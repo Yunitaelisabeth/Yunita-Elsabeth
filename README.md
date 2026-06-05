@@ -42,6 +42,8 @@ Berikut adalah beberapa area kontribusi utama dan pencapaian yang saya kelola se
 
 * **Deskripsi:** Berkolaborasi dengan Dokter Spesialis Anestesi/Kardiologi dalam menerapkan protokol penyapihan (weaning) ventilator yang efektif pada pasien gagal napas akut.
   ## <img width="621" height="414" alt="Screenshot 2026-06-05 122743" src="https://github.com/user-attachments/assets/b5856c42-b911-49bf-a482-f743482de089" />
+  <img width="621" height="575" alt="Screenshot 2026-06-05 123639" src="https://github.com/user-attachments/assets/7629e41d-3a18-4126-ade0-2893b602cb0a" />
+
 
 * **Hasil/Dampak:** Membantu menurunkan rata-rata hari penggunaan ventilator pada pasien ICU sebesar 15% di unit kerja, sekaligus meminimalkan risiko VAP (Ventilator-Associated Pneumonia).
 
