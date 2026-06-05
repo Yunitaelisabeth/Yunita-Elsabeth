@@ -3,7 +3,7 @@ Saya adalah seorang Perawat Registered (RN) berpengalaman selama 6 tahun di Unit
 
 Kumpulan proyek dan dokumen portofolio Rafles yang mengintegrasikan keahlian sebagai Data Analyst, Staf Gudang, dan Admin Stok Gudang untuk optimalisasi manajemen inventaris berbasis data.
 
-<img width="1615" height="2440" alt="1 Sep 10 25_page-0001" src="https://github.com/user-attachments/assets/639d64d3-b335-40db-9a67-672396a9dcb2" />
+<img width="1170" height="1675" alt="Jepretan Layar 2022-11-05 pada 11 14 34" src="https://github.com/user-attachments/assets/f4a00f46-ba5c-4470-b4a3-6dbae51e845e" />
 
 # Portofolio Yunita 📊📦
 
