@@ -58,6 +58,9 @@ Berikut adalah beberapa area kontribusi utama dan pencapaian yang saya kelola se
 **3. Edukasi Keselamatan Pasien & Digitalisasi Dokumen ICU**
 
 * **Deskripsi:** Menjadi mentor bagi perawat junior/magang di ICU serta aktif dalam proyek audit internal untuk akreditasi rumah sakit (KARS/JCI) terkait akurasi pendokumentasian asuhan keperawatan kritis.
+* <img width="282" height="351" alt="Screenshot 2026-06-05 125915" src="https://github.com/user-attachments/assets/8d0e4bf0-861f-4f24-978c-f1f854f81e8d" />
+<img width="715" height="370" alt="Screenshot 2026-06-05 125354" src="https://github.com/user-attachments/assets/a69a7ef7-6200-4e19-9a91-1949bbeed9aa" />
+
 
 * **Hasil/Dampak:** Meningkatkan skor kepatuhan dokumentasi checklist keselamatan pasien ICU hingga mencapai 98%
 
