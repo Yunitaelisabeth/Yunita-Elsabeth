@@ -20,15 +20,15 @@ Saya selama lebih dari setengah dekade di garda terdepan perawatan kritis, saya 
 ---
 
 ## 🛠️ Tech Stack & Alat Kerja
-* **Manajemen Alat Medis Kritis: Ventilator Mekanik, Syringe Pump/Infusion Pump Titrasi, Mesin CRRT (Continuous Renal Replacement Therapy), Defibrilator, dan Monitor Hemodinamik EKG.
-* **Prosedur Klinis Khusus: Resusitasi Jantung Paru (RJP/CPR) Advanced, Perawatan Jalur Invasif (CVC, Arterial Line, PICC), Manajemen Jalan Napas (Airway Management).
-* **Sertifikasi Aktif: * STR (Surat Tanda Registrasi) Perawat Aktif
+* **Manajemen Alat Medis Kritis:** Ventilator Mekanik, Syringe Pump/Infusion Pump Titrasi, Mesin CRRT (Continuous Renal Replacement Therapy), Defibrilator, dan Monitor Hemodinamik EKG.
+* **Prosedur Klinis Khusus:** Resusitasi Jantung Paru (RJP/CPR) Advanced, Perawatan Jalur Invasif (CVC, Arterial Line, PICC), Manajemen Jalan Napas (Airway Management).
+* **Sertifikasi Aktif:** STR (Surat Tanda Registrasi) Perawat Aktif
 
-BTCLS (Basic Trauma Cardiac Life Support)
+*BTCLS (Basic Trauma Cardiac Life Support)
 
-Pelatihan Khusus Keperawatan Intensif / ICU (Sertifikat Keperawatan Kritis)
+*Pelatihan Khusus Keperawatan Intensif / ICU (Sertifikat Keperawatan Kritis)
 
-ACLS (Advanced Cardiovascular Life Support)
+*ACLS (Advanced Cardiovascular Life Support)
 * **
 
 
@@ -40,17 +40,19 @@ Berikut adalah beberapa area kontribusi utama dan pencapaian yang saya kelola se
 
 **Deskripsi:** Berkolaborasi dengan Dokter Spesialis Anestesi/Kardiologi dalam menerapkan protokol penyapihan (weaning) ventilator yang efektif pada pasien gagal napas akut.
 
-Hasil/Dampak: Membantu menurunkan rata-rata hari penggunaan ventilator pada pasien ICU sebesar 15% di unit kerja, sekaligus meminimalkan risiko VAP (Ventilator-Associated Pneumonia).
+**Hasil/Dampak:** Membantu menurunkan rata-rata hari penggunaan ventilator pada pasien ICU sebesar 15% di unit kerja, sekaligus meminimalkan risiko VAP (Ventilator-Associated Pneumonia).
 
-2. Ketua Tim Shift / Charge Nurse (Kepemimpinan Klinik)
-Deskripsi: Dipercaya memimpin tim perawat dalam shift, mengatur alokasi pasien berdasarkan tingkat keparahan (acuity level), dan memastikan kelancaran operasional ICU.
+**2. Ketua Tim Shift / Charge Nurse (Kepemimpinan Klinik)**
 
-Hasil/Dampak: Sukses mengoordinasikan lebih dari 50+ situasi darurat Code Blue dengan respons tim yang cepat, terstruktur, dan sesuai SOP rumah sakit.
+**Deskripsi:** Dipercaya memimpin tim perawat dalam shift, mengatur alokasi pasien berdasarkan tingkat keparahan (acuity level), dan memastikan kelancaran operasional ICU.
 
-3. Edukasi Keselamatan Pasien & Digitalisasi Dokumen ICU
-Deskripsi: Menjadi mentor bagi perawat junior/magang di ICU serta aktif dalam proyek audit internal untuk akreditasi rumah sakit (KARS/JCI) terkait akurasi pendokumentasian asuhan keperawatan kritis.
+**Hasil/Dampak:** Sukses mengoordinasikan lebih dari 50+ situasi darurat Code Blue dengan respons tim yang cepat, terstruktur, dan sesuai SOP rumah sakit.
 
-Hasil/Dampak: Meningkatkan skor kepatuhan dokumentasi checklist keselamatan pasien ICU hingga mencapai 98%
+**3. Edukasi Keselamatan Pasien & Digitalisasi Dokumen ICU**
+
+**Deskripsi:** Menjadi mentor bagi perawat junior/magang di ICU serta aktif dalam proyek audit internal untuk akreditasi rumah sakit (KARS/JCI) terkait akurasi pendokumentasian asuhan keperawatan kritis.
+
+**Hasil/Dampak:** Meningkatkan skor kepatuhan dokumentasi checklist keselamatan pasien ICU hingga mencapai 98%
 
 ## 📁 Daftar Proyek (Portfolio Highlights)
 <img width="978" height="550" alt="image(608)" src="https://github.com/user-attachments/assets/d108a153-a731-4b4a-b0b0-848060be95fe" />
