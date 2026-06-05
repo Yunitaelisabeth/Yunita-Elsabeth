@@ -62,24 +62,10 @@ Berikut adalah beberapa area kontribusi utama dan pencapaian yang saya kelola se
 
 * **Hasil/Dampak:** Meningkatkan skor kepatuhan dokumentasi checklist keselamatan pasien ICU hingga mencapai 98%
 
-## 📁 Daftar Proyek (Portfolio Highlights)
-<img width="978" height="550" alt="image(608)" src="https://github.com/user-attachments/assets/d108a153-a731-4b4a-b0b0-848060be95fe" />
-
-
-1. **[Analisis Perputaran Stok & Prediksi Reorder Point]**
-   * *Deskripsi:* Proyek SQL dan Python untuk menganalisis barang *fast-moving* vs *slow-moving* serta menentukan kapan gudang harus melakukan order ulang.
-   * <img width="286" height="176" alt="images" src="https://github.com/user-attachments/assets/605ac2e8-75d8-4bd4-bcc8-ae9a344fc6c0" />
-
-2. **[Dashboard Monitor Stok Gudang (Power BI/Excel)
-   * *Deskripsi:* Dasbor interaktif untuk memantau kapasitas gudang secara real-time dan meminimalkan selisih *stock opname*.
-   * <img width="1907" height="852" alt="Project-tracking-dashboard-Total-scaled-e1772699121442" src="https://github.com/user-attachments/assets/10fa1917-62be-4be5-8b88-1ce677033275" />
-
-3. **[Otomatisasi Laporan Admin Stok](link-ke-folder-atau-file)**
-   * *Deskripsi:* Skrip Python/Excel Macro untuk mempercepat pembuatan laporan harian arus keluar-masuk barang.
 
 ---
 
 ## 📬 Kontak
 Jika Anda tertarik untuk berkolaborasi atau melihat potensi kerja sama, silakan hubungi saya melalui:
-* **Email:** padwarafles@gmail.com
-* whatsapp +6285161190826
+* 📧 **Email:** yelisabeth886@gmail.com
+* 💬 **whatsapp:** +6285254696182
