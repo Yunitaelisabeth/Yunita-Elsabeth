@@ -7,7 +7,7 @@ Selamat datang di repositori portofolio saya! Di sini Anda akan menemukan rekam 
 
 <img width="1170" height="1675" alt="Jepretan Layar 2022-11-05 pada 11 14 34" src="https://github.com/user-attachments/assets/f4a00f46-ba5c-4470-b4a3-6dbae51e845e" />
 
-# Portofolio Yunita 📊📦
+# **Yunita Elisabet Jamco**
 
 Saya adalah seorang Perawat Registered (RN) berpengalaman selama 6 tahun di Unit Perawatan Intensif (ICU) Rumah Sakit. Memiliki rekam jejak yang kuat dalam menangani pasien kritis (critical care), manajemen alat penopang hidup (life-support systems), serta kolaborasi multidisiplin dalam situasi darurat medis. Fokus saya adalah memberikan asuhan keperawatan berbasis bukti (evidence-based care) yang mengutamakan keselamatan pasien, akurasi tinggi, dan empati mendalam.
 
