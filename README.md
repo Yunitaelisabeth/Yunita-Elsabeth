@@ -1,5 +1,7 @@
 # Portofolio-Yunita
-Saya adalah seorang Perawat Registered (RN) berpengalaman selama 6 tahun di Unit Perawatan Intensif (ICU) Rumah Sakit. Memiliki rekam jejak yang kuat dalam menangani pasien kritis (critical care), manajemen alat penopang hidup (life-support systems), serta kolaborasi multidisiplin dalam situasi darurat medis. Fokus saya adalah memberikan asuhan keperawatan berbasis bukti (evidence-based care) yang mengutamakan keselamatan pasien, akurasi tinggi, dan empati mendalam.
+
+Selamat datang di repositori portofolio saya! Di sini Anda akan menemukan berbagai proyek, analisis, dan dokumentasi kerja yang merefleksikan keahlian saya dalam menggabungkan operasional logistik fisik dengan analisis data modern.
+
 
 ---
 
@@ -7,7 +9,7 @@ Saya adalah seorang Perawat Registered (RN) berpengalaman selama 6 tahun di Unit
 
 # Portofolio Yunita 📊📦
 
-Selamat datang di repositori portofolio saya! Di sini Anda akan menemukan berbagai proyek, analisis, dan dokumentasi kerja yang merefleksikan keahlian saya dalam menggabungkan operasional logistik fisik dengan analisis data modern.
+Saya adalah seorang Perawat Registered (RN) berpengalaman selama 6 tahun di Unit Perawatan Intensif (ICU) Rumah Sakit. Memiliki rekam jejak yang kuat dalam menangani pasien kritis (critical care), manajemen alat penopang hidup (life-support systems), serta kolaborasi multidisiplin dalam situasi darurat medis. Fokus saya adalah memberikan asuhan keperawatan berbasis bukti (evidence-based care) yang mengutamakan keselamatan pasien, akurasi tinggi, dan empati mendalam.
 
 ## 👤 Tentang Saya
 Saya selama lebih dari setengah dekade di garda terdepan perawatan kritis, saya telah mendedikasikan diri untuk mengelola pasien dengan kondisi medis kompleks yang mengancam jiwa. Peran saya mencakup tiga pilar utama:
