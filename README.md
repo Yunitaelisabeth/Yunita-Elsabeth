@@ -27,11 +27,17 @@ Saya selama lebih dari setengah dekade di garda terdepan perawatan kritis, saya 
 
 **Sertifikasi Aktif:** 
 Sertifikasi Aktif: 
+
 **STR** (Surat Tanda Registrasi) Perawat Aktif
+
 **ACLS** (Advanced Cardiovascular Life Support)
+
 **HIPERCI** (Himpunan Perawat Critical Care Indonesia)
+
 **K3 HIPERKES** (Higiene Perusahaan, Ergonomi, dan Kesehatan Kerja)
+
 **PERAWATAN LUKA** (wound care)
+
 **PERAWATAN KAMAR BEDAH** (Perawat kamar operasi/perioperative)
 
 * **
