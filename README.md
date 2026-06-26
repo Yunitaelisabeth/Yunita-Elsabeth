@@ -25,13 +25,15 @@ Saya selama lebih dari setengah dekade di garda terdepan perawatan kritis, saya 
 
 **Prosedur Klinis Khusus:** Resusitasi Jantung Paru (RJP/CPR) Advanced, Perawatan Jalur Invasif (CVC, Arterial Line, PICC), Manajemen Jalan Napas (Airway Management).
 
-**Sertifikasi Aktif:** STR (Surat Tanda Registrasi) Perawat Aktif
+**Sertifikasi Aktif:** 
+Sertifikasi Aktif: 
+**STR** (Surat Tanda Registrasi) Perawat Aktif
+**ACLS** (Advanced Cardiovascular Life Support)
+**HIPERCI** (Himpunan Perawat Critical Care Indonesia)
+**K3 HIPERKES** (Higiene Perusahaan, Ergonomi, dan Kesehatan Kerja)
+**PERAWATAN LUKA** (wound care)
+**PERAWATAN KAMAR BEDAH** (Perawat kamar operasi/perioperative)
 
-* BTCLS (Basic Trauma Cardiac Life Support)
-
-* Pelatihan Khusus Keperawatan Intensif / ICU (Sertifikat Keperawatan Kritis)
-
-* ACLS (Advanced Cardiovascular Life Support)
 * **
 
 
